@@ -38,7 +38,7 @@
 - DataFrame JOIN
   * left_DF.join(right_DF, join condition, join type)
 ---   
-### PySpark 설치 및 테스트 
+### 6. PySpark 설치 및 테스트 
 - PySpark + Py4J 설치
   * 구글 Colab 가상서버 위에 로컬 모드 Spark을 실행
   * Py4J: 파이썬에서 JVM내에 있는 자바 객체를 사용가능하게 해줌
